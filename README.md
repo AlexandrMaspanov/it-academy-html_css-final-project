@@ -1,1 +1,2 @@
-# it-academy--final-project
+# it-academy-final-project
+# educational final project - Burger
